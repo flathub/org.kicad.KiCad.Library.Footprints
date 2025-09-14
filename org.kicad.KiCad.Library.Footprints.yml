@@ -1,5 +1,4 @@
 id: org.kicad.KiCad.Library.Footprints
-branch: stable
 runtime: org.kicad.KiCad
 runtime-version: stable
 sdk: org.freedesktop.Sdk//25.08
